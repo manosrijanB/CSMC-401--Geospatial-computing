@@ -1,5 +1,5 @@
-"""
-Terrain and Canopy Modeling Project
+
+# Terrain and Canopy Modeling Project
 
 ## Project Overview
 
@@ -82,18 +82,17 @@ The project is divided into two main parts:
 To run the program successfully, ensure that the directory is set to **"provided_code_project"**. Open the terminal and execute the following commands for the respective tasks:
 
 ### For Task 1: Seabed Analysis (Bathymetric Data)
-```bash
-python3 main_test_demo.py ./data_part_II/test_bathymetric.pts 100
-For Task 2: Forest Canopy Analysis (LiDAR Data)
-bash
-Always show details
 
-Copy code
+python3 main_test_demo.py ./data_part_II/test_bathymetric.pts 100
+
+### For Task 2: Forest Canopy Analysis (LiDAR Data)
+
 python3 main_test_demo.py ./data_part_II/test_chm.pts 100
-Explanation:
+
+### Explanation:
 Command Structure: Replace ./data_part_II/test_bathymetric.pts or ./data_part_II/test_chm.pts with the correct path to the input .pts file.
 Capacity: The number 100 indicates the capacity for the images. You can adjust this number as per your requirements.
 Executing these commands will generate the output images for the respective data sets. Ensure that the correct file paths and capacity are provided for accurate results.
 
-Conclusion
+## Conclusion
 This project combines computational geometry, data structure design, and practical applications in environmental science and forestry. The use of the Triangle PR-quadtree enhances the performance of handling large datasets, making it an efficient tool for terrain and canopy modeling. The project provides valuable insights into seabed and forest structure analysis, with applications in marine navigation and forest management. """
