@@ -1,5 +1,5 @@
 
-# Terrain and Canopy Modeling Project
+# Terrain and Canopy Modeling Using Triangle-PR-Quadtree
 
 ## Project Overview
 
