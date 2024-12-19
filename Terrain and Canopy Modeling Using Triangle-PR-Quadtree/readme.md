@@ -57,6 +57,11 @@ The project is divided into two main parts:
 - Bathymetric data with color-coded roughness and curvature.
 - Visualization of maxima for both seabed and canopy models.
 - Text files for roughness, curvature, and maxima, along with their corresponding visualizations.
+- 
+## Project Report
+
+For more detailed information, please refer to the [CMSC 401_ Project Report.pdf](https://github.com/manosrijanB/CSMC-401--Geospatial-computing/blob/19476b32cb3faea7b7edbf1764d109b60512b6d8/Terrain%20and%20Canopy%20Modeling%20Using%20Triangle-PR-Quadtree/CMSC%20401_%20Project%20Report.pdf)
+ 
 
 ## Key Concepts
 
@@ -95,4 +100,6 @@ Capacity: The number 100 indicates the capacity for the images. You can adjust t
 Executing these commands will generate the output images for the respective data sets. Ensure that the correct file paths and capacity are provided for accurate results.
 
 ## Conclusion
-This project combines computational geometry, data structure design, and practical applications in environmental science and forestry. The use of the Triangle PR-quadtree enhances the performance of handling large datasets, making it an efficient tool for terrain and canopy modeling. The project provides valuable insights into seabed and forest structure analysis, with applications in marine navigation and forest management. """
+This project combines computational geometry, data structure design, and practical applications in environmental science and forestry. The use of the Triangle PR-quadtree enhances the performance of handling large datasets, making it an efficient tool for terrain and canopy modeling. The project provides valuable insights into seabed and forest structure analysis, with applications in marine navigation and forest management.
+
+
