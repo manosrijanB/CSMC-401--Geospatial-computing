@@ -1,0 +1,11 @@
+The assignment consists of the design and
+implementation of:
+• a data structure for the region quadtree;
+• an algorithm for building the region quadtree from a binary matrix representing the input image;
+• an algorithm to output the structure and the content of the region quadtree;
+• an algorithm for computing the intersection of two region quadtrees;
+• an algorithm for computing the image clipped by a rectangle window.
+
+run the program, you will asked to enter the names of the files, enter them correctly. 
+image1 and image2 are the input files which are already given.
+test1 and test2 are the different input files usesd for testing.
